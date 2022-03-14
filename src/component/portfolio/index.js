@@ -4,7 +4,7 @@ import projects from "../projects";
 
 function portfolio() {
     return (
-        
+
         <main>
             <projects></projects>
         </main>
