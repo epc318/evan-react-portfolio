@@ -18,6 +18,9 @@ This repository contain the partial script of my REACT portfolio
 - [Contribution](#contributing)
 - [Questions](#questions)
 
+## Usage
+This can only be accessed locally, as deployment was not able to occur yet.
+
 ## Built With
 * JavaScript
 * HTML
