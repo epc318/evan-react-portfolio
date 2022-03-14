@@ -1,9 +1,13 @@
 import React from "react";
+import projects from "../projects";
 
 
 function portfolio() {
     return (
-        <h1>Evans Portfolio:</h1>
+        
+        <main>
+            <projects></projects>
+        </main>
     )
 }
 

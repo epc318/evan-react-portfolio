@@ -1,6 +1,7 @@
 import React from "react";
 import nav from "./component/nav";
 import about from "./component/about";
+import portfolio from "./components/portfolio";
 import footer from "./component/footer";
 
 
